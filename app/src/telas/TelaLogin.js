@@ -35,10 +35,10 @@ export default class TelaLogin extends Component<Props> {
 
     state = {
         //desablitar quando finalizar testes
-        // login: 'teste@datacase.br',
-        // passw: '2018',
-        login: 'a@a.com',
-        passw: '111',
+        // login: 'a@a.com',
+        // passw: '111',
+        login: ' ',
+        passw: '',
 
         visible: false,
         redefinirSenha_visible: false,
