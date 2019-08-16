@@ -1,0 +1,14 @@
+
+Eventu/android/
+
+Eventu/ios/
+
+REST/vendor/
+
+REST/\.idea/
+
+app/__tests__/
+
+app/android/
+
+app/ios/

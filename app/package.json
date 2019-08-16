@@ -1,0 +1,45 @@
+{
+  "name": "Eventu",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "node-fetch": "^2.3.0",
+    "prop-types": "^15.6.2",
+    "react": "16.6.3",
+    "react-native": "0.55.4",
+    "react-native-bluetooth-escpos-printer": "0.0.5",
+    "react-native-credit-card-input": "^0.4.1",
+    "react-native-device-info": "^2.1.2",
+    "react-native-dialog": "^5.5.0",
+    "react-native-elements": "^1.0.0",
+    "react-native-fabric": "^0.5.2",
+    "react-native-fetch-blob": "^0.10.8",
+    "react-native-gesture-handler": "^1.0.15",
+    "react-native-keyboard-aware-scroll-view": "^0.8.0",
+    "react-native-loading-spinner-overlay": "^1.0.1",
+    "react-native-masked-text": "^1.10.1",
+    "react-native-render-html": "^3.10.0",
+    "react-native-sunmi-inner-printer": "^0.1.6",
+    "react-native-text-input-mask": "^0.8.0",
+    "react-native-timer-countdown": "^4.1.0",
+    "react-native-vector-icons": "^6.2.0",
+    "react-navigation": "^3.0.9",
+    "whatwg-fetch-timeout": "^2.0.2-timeout",
+    "yaqrcode": "^0.2.1"
+  },
+  "devDependencies": {
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "24.0.0",
+    "jest": "24.0.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
