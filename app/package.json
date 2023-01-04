@@ -11,7 +11,7 @@
     "node-fetch": "^2.3.0",
     "prop-types": "^15.6.2",
     "react": "16.6.3",
-    "react-native": "0.55.4",
+    "react-native": "0.70.6",
     "react-native-bluetooth-escpos-printer": "0.0.5",
     "react-native-credit-card-input": "^0.4.1",
     "react-native-device-info": "^2.1.2",
